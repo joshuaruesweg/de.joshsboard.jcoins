@@ -30,7 +30,7 @@ nbactions.xml
 .classpath
 .project
 
-# SVN
+# SVN 
 # svn folders
 .svn/
 
